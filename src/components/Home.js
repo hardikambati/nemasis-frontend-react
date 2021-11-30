@@ -2,7 +2,7 @@ export default function Home() {
     return (
         <div className="home-main">
             <div id="home-tag1">
-                Nemasis
+                Nemesis
             </div>
             <div id="home-tag2">
                 Authentication
